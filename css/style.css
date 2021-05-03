@@ -1,0 +1,24 @@
+.tab-content #Form-field-Post-_emoji_field-group {
+    display: none;
+}
+
+#Form-field-Post-_emoji_field-group {
+    padding: 0;
+    margin-bottom: 1px !important;
+}
+
+#EmojiPicker-formEmojiField-_emoji_field {
+    display: flex;
+}
+
+#Form-field-Post-_emoji_field-group .emoji-search-field {
+    margin-bottom: 0 !important;
+}
+
+#Form-field-Post-_emoji_field-group .search-input {
+    margin-right: 10px;
+}
+
+#Form-field-Post-_emoji_field-group .emoji-result-field {
+    align-content: center;
+}

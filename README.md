@@ -10,3 +10,7 @@ Once you've installed it, an emoji search field appear into the navbar:
 #### Requirements
 This plugin relies on [this one](https://github.com/SunLabDev/wn-emojipicker-plugin/), you'll need to create an API key from [Emoji-API.com](https://emoji-api.com)
 and fill your credentials on the backend settings.
+
+#### Installation
+
+  composer require sunlab/wn-emojiforblog-plugin

@@ -1,4 +1,4 @@
-## EmojiPicker
+## EmojiForBlog
 This plugin allows you to search emoji through an API on Winter.Blog  
 Once you've installed it, an emoji search field appear into the navbar:
 - use it to search emoji by keywords
